@@ -1,6 +1,4 @@
-//   --﷽--
 
-// selecting all necessary dom element
 
 //select for menu
 const menuBar = document.querySelector("#menu-bar");
